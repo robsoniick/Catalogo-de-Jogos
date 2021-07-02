@@ -1,0 +1,7 @@
+C:\Users\robson\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\netcoreapp3.1\ApiCatalogoJogos.csproj.AssemblyReference.cache
+C:\Users\robson\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\netcoreapp3.1\ApiCatalogoJogos.AssemblyInfoInputs.cache
+C:\Users\robson\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\netcoreapp3.1\ApiCatalogoJogos.AssemblyInfo.cs
+C:\Users\robson\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\netcoreapp3.1\ApiCatalogoJogos.csproj.CoreCompileInputs.cache
+C:\Users\robson\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\netcoreapp3.1\ApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\robson\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\netcoreapp3.1\ApiCatalogoJogos.RazorAssemblyInfo.cache
+C:\Users\robson\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\netcoreapp3.1\ApiCatalogoJogos.RazorAssemblyInfo.cs
